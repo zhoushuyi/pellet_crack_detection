@@ -3,7 +3,8 @@
 ## 1. Dataset
   Pellet crack dataset consists of 640 pellet images with the size of 512×512, in which 320 images are used for model training and the other 320 images are used for model testing.
 
-
+![image](https://github.com/zhoushuyi/pellet_crack_detection/blob/master/test/Image_512/IMG1179.png)
+![image](https://github.com/zhoushuyi/pellet_crack_detection/blob/master/test/mask_w_512/IMG1179.png)
 
 ## 2. Pellet crack detection network PCDNet
 
